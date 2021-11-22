@@ -17,9 +17,9 @@ require (
 	go.uber.org/zap v1.19.0
 	golang.org/x/tools v0.1.1 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
-	k8s.io/api v0.22.1
-	k8s.io/apimachinery v0.22.1
-	k8s.io/client-go v0.22.1
+	k8s.io/api v0.22.4
+	k8s.io/apimachinery v0.22.4
+	k8s.io/client-go v0.22.4
 	sigs.k8s.io/controller-runtime v0.9.6
 	sigs.k8s.io/yaml v1.2.0
 )
